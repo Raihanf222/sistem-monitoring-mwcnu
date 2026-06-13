@@ -61,5 +61,5 @@ Folder `docs/` berisi:
 
 **Muhamad Raihan Fahreza**
 - Email: rehanfahreza1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhamadraihan-fahreza-547b4438b/
+- LinkedIn: www.linkedin.com/in/muhamad-raihan-fahreza
 - Lokasi: Karang Tengah, Tangerang, Banten
